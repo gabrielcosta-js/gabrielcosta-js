@@ -100,10 +100,11 @@ Tenho conhecimento em <strong>Inglês básico a intermediário</strong>, o que m
 
 <div align="center">
   <a href="https://github.com/Gabriel-Costa-de-Jesus">
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Costa-de-Jesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Costa-de-Jesus&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Costa-de-Jesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Costa-de-Jesus&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
