@@ -105,8 +105,16 @@ Tenho conhecimento em <strong>Inglês básico a intermediário</strong>, o que m
   </a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Costa-de-Jesus/Gabriel-Costa-de-Jesus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Costa-de-Jesus/Gabriel-Costa-de-Jesus/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my commits" src="https://raw.githubusercontent.com/Gabriel-Costa-de-Jesus/Gabriel-Costa-de-Jesus/output/pacman-contribution-graph.svg">
+</picture>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
+
