@@ -16,7 +16,10 @@
 
 
 <p align="left">  
-Sou aluno do <strong>SENAI</strong> em <em>Desenvolvimento de Sistemas</em>, certificado pela <strong>Cisco</strong> e, em breve, estarei me graduando na faculdade de <strong>Sistemas de Informação (IFBA)</strong>.
+Sou aluno do <strong>SENAI</strong> em <em>Desenvolvimento de Sistemas</em>, certificado pela <strong>Cisco</strong> e, em breve, estarei entrando e me graduando na faculdade de <strong>Sistemas de Informação (IFBA)</strong>. <img align="center" alt="Cisco" height="30" width="40" src="https://www.logopng.com.br/logos/senai-165.svg">     <img align="center" alt="Cisco" height="30" width="40" src="https://cdn.simpleicons.org/cisco/1572B6" />
+
+
+<img align="center" alt="Cisco" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg"> 
 <br><br>
 Tenho conhecimento em <strong>Inglês básico a intermediário</strong>, o que me permite compreender e desenvolver conteúdos técnicos internacionais.
 <br><br>
@@ -73,7 +76,7 @@ Tenho conhecimento em <strong>Inglês básico a intermediário</strong>, o que m
 ## 🌐 Onde me encontrar
 
 <div align="center">
-  <a href="mailto:gabrielcostadejesus918@gmail.com" target="_blank">
+  <a href="mailto:gabrielcosta.js05" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/gabrielcosta_js" target="_blank">
@@ -82,10 +85,10 @@ Tenho conhecimento em <strong>Inglês básico a intermediário</strong>, o que m
   <a href="https://www.linkedin.com/in/gabriel-costajs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.gg/5DVhGKVf4h" target="_blank">
+  <a href="https://discord.gg/WAdSf22c" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://wa.me/5571999999999" target="_blank">
+  <a href="https://wa.me/5575998616714" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
