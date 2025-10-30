@@ -22,7 +22,16 @@ Sou aluno do <strong>SENAI</strong> em <em>Desenvolvimento de Sistemas</em>, cer
 <img align="center" alt="Cisco" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg"> 
 <br><br>
 Tenho conhecimento em <strong>Inglês básico a intermediário</strong>, o que me permite compreender e desenvolver conteúdos técnicos internacionais.
-<br><br>
+<br>
+
+
+<p>
+  🌐 <strong>Visite todos os meus projetos aqui:</strong><br>
+  <a href="https://gabriel-costa-de-jesus.github.io/projects-front_end/project-center/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 Acessar%20meu%20Site-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site pessoal"/>
+  </a>
+</p>
+
 💬 <em>"Não sei de tudo, a cada dia aprendo uma nova coisa, mas posso garantir que darei 100% de mim para desenrolar qualquer desafio que me for apresentado."</em>
 </p>
 
