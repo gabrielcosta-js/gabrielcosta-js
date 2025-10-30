@@ -1,0 +1,31 @@
+name: Generate Pac-Man Contribution Graph 👾
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda automaticamente uma vez por dia
+  workflow_dispatch: # permite rodar manualmente
+  push: # ou sempre que fizer push na branch main
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Generate Pac-Man Graph
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Pac-Man Contribution Graph
+        uses: maurodesouza/pacman-contribution-graph-action@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Temas disponíveis: github, github-dark, dracula, solarized, monokai
+          palette: dracula
+
+      - name: Publicar arquivos no branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
