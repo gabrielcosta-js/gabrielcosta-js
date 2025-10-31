@@ -26,7 +26,7 @@ Tenho conhecimento em <strong>Inglês básico a intermediário</strong>, o que m
 
 <p>
   🌐 <strong>Visite todos os meus projetos aqui:</strong><br>
-  <a href="https://gabriel-costa-de-jesus.github.io/projects-front_end/project-center/index.html" target="_blank">
+  <a href="https://gabrielcosta-js.github.io/projects-front_end/project-center/index.html" target="_blank">
     <img src="https://img.shields.io/badge/🔗 Acessar%20meu%20Site-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site pessoal"/>
   </a>
 </p>
