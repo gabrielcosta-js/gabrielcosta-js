@@ -11,7 +11,7 @@
 ## 🧠 Sobre Mim
 
   <!-- Imagem de perfil à direita -->
-  <img src="https://github.com/Gabriel-Costa-de-Jesus.png" alt="profile-icon" align="right" width="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #00C2FF;">
+  <img src="https://github.com/Gabriel-Costa-de-Jesus/Gabriel-Costa-de-Jesus/blob/main/img/foto-perfil.png?raw=true" alt="profile-icon" align="right" width="250" height="500">
 
 
 <p align="left">  
