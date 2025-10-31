@@ -3,8 +3,7 @@
 
 <!-- Seção 2 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=24CCF7&vCenter=true&width=650&lines=Welcome+to+My+Git+Hub+Profile!;I+don't+know+everything%2C+;but+I+guarantee+I+can+do+it.)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&center=true&vCenter=true&width=1000&height=55&lines=Welcome+To+My+Git+Hub+Profile!;I+don't+know+everthing%2C;but+I+guarantee+I+can+do+it." alt="Typing SVG" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
