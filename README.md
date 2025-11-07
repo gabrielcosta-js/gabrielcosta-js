@@ -107,9 +107,9 @@ Tenho conhecimento em <strong>Inglês básico a intermediário</strong>, o que m
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Gabriel-Costa-de-Jesus">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Costa-de-Jesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Costa-de-Jesus&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/gabrielcosta-js">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabrielcosta-js&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcosta-js&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 
