@@ -93,7 +93,7 @@ Tenho conhecimento em <strong>Inglês básico a intermediário</strong>, o que m
   <a href="https://www.linkedin.com/in/gabriel-costajs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.gg/WAdSf22c" target="_blank">
+  <a href="https://discord.gg/XhUzXE6C" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://wa.me/5575998616714" target="_blank">
