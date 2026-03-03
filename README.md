@@ -15,7 +15,7 @@
 
 
 <p align="left">  
-Sou aluno do <strong>SENAI</strong> em <em>Desenvolvimento de Sistemas</em>, certificado pela <strong>Cisco</strong> e, em breve, estarei entrando e me graduando na faculdade de <strong>Sistemas de Informação (IFBA)</strong>. <img align="center" alt="Cisco" height="30" width="40" src="https://www.logopng.com.br/logos/senai-165.svg">     <img align="center" alt="Cisco" height="30" width="40" src="https://cdn.simpleicons.org/cisco/1572B6" />
+Sou aluno do <strong>SENAI</strong> em <em>Desenvolvimento de Sistemas</em>, certificado pela <strong>Cisco</strong> e graduando na faculdade de <strong>Sistemas de Informação (IFBA)</strong>. <img align="center" alt="Cisco" height="30" width="40" src="https://www.logopng.com.br/logos/senai-165.svg">     <img align="center" alt="Cisco" height="30" width="40" src="https://cdn.simpleicons.org/cisco/1572B6" />
 
 
 <img align="center" alt="Cisco" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg"> 
