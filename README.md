@@ -1,129 +1,142 @@
-<!-- Seção 1 -->
-<h1 align="center">Hi, I'm Gabriel Costa 👋</h1>
+# Gabriel Costa | gabrielcosta-js — Desenvolvedor Full Stack
 
-<!-- Seção 2 -->
+<!-- SEO: Gabriel Costa de Jesus | gabrielcosta-js | Full Stack Developer | JavaScript | Python | SENAI | IFBA -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&center=true&vCenter=true&width=1000&height=55&lines=Welcome+To+My+Git+Hub+Profile!;I+don't+know+everthing%2C;but+I+guarantee+I+can+do+it." alt="Typing SVG" /></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Seção 3 - Sobre Mim -->
-## 🧠 Sobre Mim
-
-  <!-- Imagem de perfil à direita -->
-  <img src="https://github.com/Gabriel-Costa-de-Jesus/Gabriel-Costa-de-Jesus/blob/main/img/foto-perfil.png?raw=true" alt="profile-icon" align="right" width="250" height="500">
-
-
-<p align="left">  
-Sou aluno do <strong>SENAI</strong> em <em>Desenvolvimento de Sistemas</em>, certificado pela <strong>Cisco</strong> e graduando na faculdade de <strong>Sistemas de Informação (IFBA)</strong>. <img align="center" alt="Cisco" height="30" width="40" src="https://www.logopng.com.br/logos/senai-165.svg">     <img align="center" alt="Cisco" height="30" width="40" src="https://cdn.simpleicons.org/cisco/1572B6" />
-
-
-<img align="center" alt="Cisco" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg"> 
-<br><br>
-Tenho conhecimento em <strong>Inglês básico a intermediário</strong>, o que me permite compreender e desenvolver conteúdos técnicos internacionais.
-<br>
-
-
-<p>
-  🌐 <strong>Visite todos os meus projetos aqui:</strong><br>
-  <a href="https://gabrielcosta-js.github.io/projects-front_end/project-center/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 Acessar%20meu%20Site-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site pessoal"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&center=true&vCenter=true&width=1000&height=55&lines=Welcome+To+My+Git+Hub+Profile!;Full+Stack+Developer;JavaScript+%7C+Python+%7C+HTML+%7C+CSS" alt="Gabriel Costa (gabrielcosta-js) - Full Stack Developer" />
   </a>
-</p>
+</div>
 
-💬 <em>"Não sei de tudo, a cada dia aprendo uma nova coisa, mas posso garantir que darei 100% de mim para desenrolar qualquer desafio que me for apresentado."</em>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!-- Seção 4 - Linguagens e Ferramentas -->
-## ⚙️ Tecnologias e Ferramentas
+## 🧠 Gabriel Costa de Jesus — gabrielcosta-js
+
+<img src="https://github.com/Gabriel-Costa-de-Jesus/Gabriel-Costa-de-Jesus/blob/main/img/foto-perfil.png?raw=true" align="right" width="250" alt="Foto de perfil de Gabriel Costa de Jesus - gabrielcosta-js"/>
+
+Olá! Sou **Gabriel Costa de Jesus**, desenvolvedor Full Stack conhecido no GitHub como **[gabrielcosta-js](https://github.com/gabrielcosta-js)**. Sou apaixonado por criar soluções eficientes e interfaces intuitivas que unem design e performance.
+
+Atualmente, aprofundo meus conhecimentos em **Desenvolvimento de Sistemas** pelo **SENAI** e me preparo para a graduação em **Sistemas de Informação** no **IFBA (Instituto Federal da Bahia)**. Minha jornada técnica inclui certificações da **Cisco** e experiência prática em projetos de front-end e back-end.
+
+🚀 **Especialidades de Gabriel Costa (gabrielcosta-js):**
+- **JavaScript (ES6+)** — desenvolvimento web moderno e dinâmico
+- **Python** — automação, scripts e back-end
+- **Java e Kotlin** — desenvolvimento mobile e aplicações robustas
+- **HTML5 & CSS3** — interfaces responsivas e acessíveis
+- **MySQL** — modelagem e gerenciamento de bancos de dados relacionais
+- **Git & GitHub** — versionamento e colaboração em projetos open source
+
+🌍 **Localização:** Bahia, Brasil  
+💼 **Disponível para:** Projetos freelance, estágios e oportunidades de emprego  
+📧 **Contato:** [LinkedIn — gabriel-costajs](https://www.linkedin.com/in/gabriel-costajs) | [Instagram — @gabrielcosta_js](https://instagram.com/gabrielcosta_js)
+
+🌐 **Portfólio completo de gabrielcosta-js:**
+
+<a href="https://gabrielcosta-js.github.io/projects-front_end/project-center/index.html">
+  <img src="https://img.shields.io/badge/🔗 Acessar%20meu%20Site-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio de Gabriel Costa - gabrielcosta-js"/>
+</a>
+
+> *"Não sei de tudo, mas aprendo rápido e entrego 100% em cada linha de código."* — **Gabriel Costa (gabrielcosta-js)**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+
+---
+
+## ⚙️ Tecnologias e Ferramentas — gabrielcosta-js
 
 ### 💻 Linguagens de Programação
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+
+Gabriel Costa domina as seguintes linguagens:
+
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript - gabrielcosta-js">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python - Gabriel Costa">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java - gabrielcosta-js">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C - Gabriel Costa">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ - gabrielcosta-js">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin - Gabriel Costa">
 </div>
 
-### 🧩 Linguagens de Marcação e Estilo
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+**JavaScript · Python · Java · C · C++ · Kotlin**
+
+### 🧩 Front-end & Design
+
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 - Gabriel Costa gabrielcosta-js">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 - Gabriel Costa gabrielcosta-js">
 </div>
 
-### 🔧 Ferramentas e Plataformas
-<div style="display: inline_block"><br>
-  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="IntelliJ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Android Studio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Workbench" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+**HTML5 · CSS3 · Design Responsivo · UI/UX**
 
+### 🔧 Infraestrutura e Ferramentas
+
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code - gabrielcosta-js">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git - Gabriel Costa">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL - gabrielcosta-js">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio - Gabriel Costa">
 </div>
+
+**VS Code · Git · MySQL · Android Studio**
 
 ---
 
-### 🏅 Insígnias e Certificações
+## 🏅 Certificações de Destaque — Gabriel Costa (gabrielcosta-js)
 
-<p align="left">
-  <a href="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png"><img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="NetworkDefense" hspace=10 width="124px"></a>
-  <a href="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png"><img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="NetworkBasics" hspace=10 width="124px"></a>
- <a href="\https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="IntroductiontoCybersecurity" hspace=10 width="124px"></a>
+Gabriel Costa de Jesus possui as seguintes certificações oficiais da **Cisco Networking Academy**:
+
+- 🛡️ **Network Defense** — Cisco Certified
+- 🔒 **Cybersecurity Essentials** — Cisco Certified
+- 🌐 **Introduction to Cybersecurity (I2CS)** — Cisco Certified
+
+<p>
+  <img width="120" src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="Certificação Cisco Network Defense - Gabriel Costa gabrielcosta-js">
+  <img width="120" src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Certificação Cisco Cybersecurity - Gabriel Costa gabrielcosta-js">
+  <img width="120" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Certificação Cisco I2CS - Gabriel Costa gabrielcosta-js">
 </p>
 
+---
+
+## 🌐 Conecte-se com Gabriel Costa — gabrielcosta-js
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-costajs">
+    <img src="https://img.shields.io/badge/LinkedIn-gabriel--costajs-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn de Gabriel Costa - gabrielcosta-js"/>
+  </a>
+  <a href="https://instagram.com/gabrielcosta_js">
+    <img src="https://img.shields.io/badge/Instagram-@gabrielcosta__js-E4405F?style=for-the-badge&logo=instagram" alt="Instagram de Gabriel Costa - gabrielcosta_js"/>
+  </a>
+  <a href="https://github.com/gabrielcosta-js">
+    <img src="https://img.shields.io/badge/GitHub-gabrielcosta--js-181717?style=for-the-badge&logo=github" alt="GitHub de Gabriel Costa - gabrielcosta-js"/>
+  </a>
+</div>
 
 ---
 
-<!-- Seção 5 - Contato -->
-## 🌐 Onde me encontrar
+## 📊 Estatísticas do GitHub — gabrielcosta-js
 
 <div align="center">
-  <a href="mailto:gabrielcosta.js05" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/gabrielcosta_js" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-costajs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/XhUzXE6C" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5575998616714" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielcosta-js&show_icons=true&title_color=00C2FF&text_color=ffffff&bg_color=0d1117&border_color=00C2FF" alt="Estatísticas do GitHub de Gabriel Costa (gabrielcosta-js) - Desenvolvedor Full Stack JavaScript Python"/>
+  
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielcosta-js&layout=compact&title_color=00C2FF&text_color=ffffff&bg_color=0d1117&border_color=00C2FF" alt="Linguagens mais usadas por Gabriel Costa (gabrielcosta-js): JavaScript, Python, HTML, CSS"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!-- Seção 6 - Estatísticas -->
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/gabrielcosta-js">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabrielcosta-js&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcosta-js&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Costa-de-Jesus/Gabriel-Costa-de-Jesus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Costa-de-Jesus/Gabriel-Costa-de-Jesus/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating my commits" src="https://raw.githubusercontent.com/Gabriel-Costa-de-Jesus/Gabriel-Costa-de-Jesus/output/pacman-contribution-graph.svg">
-</picture>
+<!-- 
+  Gabriel Costa de Jesus | gabrielcosta-js
+  Desenvolvedor Full Stack | JavaScript | Python | Java | HTML | CSS | MySQL
+  SENAI Bahia | IFBA Sistemas de Informação
+  Cisco Network Defense | Cybersecurity | I2CS
+  Bahia, Brasil | Full Stack Developer
+-->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <em>© Gabriel Costa de Jesus — <strong>gabrielcosta-js</strong> — Desenvolvedor Full Stack | Bahia, Brasil</em>
 </p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=00C2FF" alt="Footer - gabrielcosta-js"/>
+</p>
