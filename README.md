@@ -18,7 +18,7 @@
 
 Olá! Sou **Gabriel Costa de Jesus**, desenvolvedor Full Stack conhecido no GitHub como **[gabrielcosta-js](https://github.com/gabrielcosta-js)**. Sou apaixonado por criar soluções eficientes e interfaces intuitivas que unem design e performance.
 
-Atualmente, aprofundo meus conhecimentos em **Desenvolvimento de Sistemas** pelo **SENAI** e me preparo para a graduação em **Sistemas de Informação** no **IFBA (Instituto Federal da Bahia)**. Minha jornada técnica inclui certificações da **Cisco** e experiência prática em projetos de front-end e back-end.
+Atualmente, aprofundo meus conhecimentos em **Desenvolvimento de Sistemas** pelo **SENAI** e estou graduando em **Sistemas de Informação** no **IFBA (Instituto Federal da Bahia)**. Minha jornada técnica inclui certificações da **Cisco** e experiência prática em projetos de front-end e back-end.
 
 🚀 **Especialidades de Gabriel Costa (gabrielcosta-js):**
 - **JavaScript (ES6+)** — desenvolvimento web moderno e dinâmico
