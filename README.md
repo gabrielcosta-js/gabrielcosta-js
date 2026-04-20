@@ -30,7 +30,7 @@ Atualmente, aprofundo meus conhecimentos em **Desenvolvimento de Sistemas** pelo
 
 🌍 **Localização:** Bahia, Brasil  
 💼 **Disponível para:** Projetos freelance, estágios e oportunidades de emprego  
-📧 **Contato:** [LinkedIn — gabriel-costajs](https://www.linkedin.com/in/gabriel-costajs) | [Instagram — @gabrielcosta_js](https://instagram.com/gabrielcosta_js)
+📧 **Contato:** [LinkedIn — gabriel-costajs](https://www.linkedin.com/in/gabrielcosta-js) | [Instagram — @gabrielcosta_js](https://instagram.com/gabrielcosta_js)
 
 🌐 **Portfólio completo de gabrielcosta-js:**
 
@@ -102,7 +102,7 @@ Gabriel Costa de Jesus possui as seguintes certificações oficiais da **Cisco N
 ## 🌐 Conecte-se com Gabriel Costa — gabrielcosta-js
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-costajs">
+  <a href="https://[www.linkedin.com/in/gabriel-costajs](https://www.linkedin.com/in/gabrielcosta-js))">
     <img src="https://img.shields.io/badge/LinkedIn-gabriel--costajs-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn de Gabriel Costa - gabrielcosta-js"/>
   </a>
   <a href="https://instagram.com/gabrielcosta_js">
