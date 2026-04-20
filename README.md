@@ -88,13 +88,13 @@ Gabriel Costa domina as seguintes linguagens:
 Gabriel Costa de Jesus possui as seguintes certificações oficiais da **Cisco Networking Academy**:
 
 - 🛡️ **Network Defense** — Cisco Certified
-- 🔒 **Cybersecurity Essentials** — Cisco Certified
-- 🌐 **Introduction to Cybersecurity (I2CS)** — Cisco Certified
+- 🔒 **Basic network concepts** — Cisco Certified
+- 🌐 **Introduction to Data Science** — Cisco Certified
 
 <p>
   <img width="120" src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="Certificação Cisco Network Defense - Gabriel Costa gabrielcosta-js">
-  <img width="120" src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Certificação Cisco Cybersecurity - Gabriel Costa gabrielcosta-js">
-  <img width="120" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Certificação Cisco I2CS - Gabriel Costa gabrielcosta-js">
+  <img width="120" src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Certificação Cisco Basic network concepts - Gabriel Costa gabrielcosta-js">
+  <img width="120" src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Certificação Cisco Introduction to Data Science - Gabriel Costa gabrielcosta-js">
 </p>
 
 ---
