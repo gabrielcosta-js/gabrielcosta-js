@@ -26,10 +26,11 @@ Curso **Técnico em Desenvolvimento de Sistemas** pelo **SENAI** e **Sistemas de
 **🚀 Especialidades:**
 - **JavaScript (ES6+)** — desenvolvimento web moderno e dinâmico
 - **Python** — automação, scripts e back-end
-- **Java & Kotlin** — desenvolvimento mobile e aplicações robustas
+- **Java** — desenvolvimento mobile e aplicações robustas
 - **HTML5 & CSS3** — interfaces responsivas e acessíveis
 - **MySQL** — modelagem e gerenciamento de bancos relacionais
 - **Git & GitHub** — versionamento e colaboração
+- **Windows Batch Scripting** - Automação de Tarefas
 
 🌍 **Localização:** Bahia, Brasil  
 💼 **Disponível para:** Projetos freelance, estágios e oportunidades de emprego  
