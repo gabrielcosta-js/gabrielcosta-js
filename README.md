@@ -17,7 +17,7 @@
 
 ## 🧠 Sobre mim
 
-<img src="https://github.com/Gabriel-Costa-de-Jesus/Gabriel-Costa-de-Jesus/blob/main/img/PerfilRedondo.png?raw=true" align="right" width="220" alt="Gabriel Costa de Jesus — gabrielcosta-js"/>
+<img src="https://github.com/Gabriel-Costa-de-Jesus/Gabriel-Costa-de-Jesus/blob/main/img/PerfilRedondo2.png?raw=true" align="right" width="220" alt="Gabriel Costa de Jesus — gabrielcosta-js"/>
 
 Olá! Sou **Gabriel Costa de Jesus**, desenvolvedor Full Stack apaixonado por transformar problemas reais em soluções que funcionam.
 
