@@ -270,9 +270,9 @@ Aplicação web com operações CRUD, integração com API REST e interface resp
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrielcosta-js&show_icons=true&title_color=00C2FF&text_color=ffffff&bg_color=0d1117&border_color=00C2FF&include_all_commits=true" alt="GitHub Stats — gabrielcosta-js"/>
+  <img height="160" src="https://github-readme-stats-tau-eight-15.vercel.app/api?username=gabrielcosta-js&show_icons=true&title_color=00C2FF&text_color=ffffff&bg_color=0d1117&border_color=00C2FF&include_all_commits=true" alt="GitHub Stats — gabrielcosta-js"/>
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcosta-js&layout=compact&title_color=00C2FF&text_color=ffffff&bg_color=0d1117&border_color=00C2FF" alt="Top Languages — gabrielcosta-js"/>
+  <img height="160" src="https://github-readme-stats-tau-eight-15.vercel.app/api/top-langs/?username=gabrielcosta-js&layout=compact&title_color=00C2FF&text_color=ffffff&bg_color=0d1117&border_color=00C2FF" alt="Top Languages — gabrielcosta-js"/>
 </div>
 
 ---
